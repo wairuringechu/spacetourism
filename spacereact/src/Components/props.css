@@ -53,3 +53,25 @@
     height: 190px;
     margin-top: 120px;
 }
+
+/* .begin p span {
+        color: #0077c2;
+        cursor: pointer;
+        font-weight: bold;
+ } */
+      
+ .begin p {
+    position: relative;
+    padding-right: 30px; 
+  }
+  
+  .begin p span {
+    color: #0077c2;
+    cursor: pointer;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  
+  
